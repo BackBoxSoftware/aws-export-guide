@@ -1,4 +1,4 @@
-![N|Solid](images/logo.png)
+![N|Solid](logo.png)
 
 # aws-export-guide
 Practical and complete guide on how to integrate Backbox with AWS
