@@ -1,7 +1,7 @@
 ![N|Solid](logo.png)
 
 # AWS Backbox integration guide
-https://github.com/yonatankarimish/aws-export-guide/blob/master/Backbox_AWS_SSO_Integration.pdf
+https://github.com/BackBoxSoftware/aws-export-guide/blob/master/Backbox_AWS_SSO_Integration.pdf
 
 A practical and complete guide on how to integrate Backbox with AWS
 with illustrations, examples and common errors.
